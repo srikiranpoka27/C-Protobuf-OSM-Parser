@@ -12,8 +12,3 @@ This project is a lightweight, from-scratch implementation of a parser for OpenS
 - **Flexible Querying:** Allows querying of core OSM elements such as nodes, ways, and summary information through a structured command-line interface.
 - **Memory-Efficient Design:** Custom message structures and tight control over memory allocation ensure efficient performance on constrained systems.
 - **No External Dependencies:** All functionality is implemented from scratch, including file parsing, buffer management, and protocol decoding logic.
-
-## Notes
-
-This parser was written entirely by me, including all file handling, compression logic, and protocol buffer decoding. No third-party helper libraries or instructor-supplied templates were used. The project demonstrates direct interaction with low-level binary data formats and system-level I/O in C.
-s
